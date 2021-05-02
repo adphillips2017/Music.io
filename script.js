@@ -9,7 +9,7 @@ const title = document.querySelector('#title');
 const cover = document.querySelector('#cover');
 
 // Song titles
-const songs = ['tomorrow', 'adventure'];
+const songs = ['tomorrow', 'adventure', 'sadday', 'memories'];
 let songIndex = 1;
 
 loadSong();
